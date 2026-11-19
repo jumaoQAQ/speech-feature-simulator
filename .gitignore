@@ -1,0 +1,11 @@
+# 虚拟环境与打包产物（不要上传）
+.venv/
+build/
+dist/
+output/
+__pycache__/
+*.pyc
+.idea/
+.pytest_cache/
+# 大型数据文件
+data_thchs30.tar
