@@ -1,0 +1,18 @@
+# 语音短时时域特征模拟系统 - 依赖清单
+# 建议使用 Python 3.9+（本项目在 3.12 下开发测试）
+# 安装：pip install -r requirements.txt
+
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+librosa>=0.10
+soundfile>=0.12
+
+# 界面（可选）
+streamlit>=1.49
+
+# 测试（可选）
+pytest>=7.0
+
+# 打包 exe（可选）
+pyinstaller>=6.0
